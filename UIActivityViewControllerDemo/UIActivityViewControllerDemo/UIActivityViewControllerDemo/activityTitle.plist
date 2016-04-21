@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>copyLink</key>
+	<string>拷贝链接</string>
+	<key>wechatSession</key>
+	<string>朋友圈</string>
+	<key>wechatTimeline</key>
+	<string>微信朋友</string>
+	<key>weibo</key>
+	<string>微博</string>
+</dict>
+</plist>
